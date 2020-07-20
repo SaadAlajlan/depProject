@@ -1,0 +1,4 @@
+AKIAZCRXJWROXVMY2EW2
+L0DEJOpXUdEeBiOdIvHqUl8shOYlFlDQ6rG+wNnM
+
+   TRUST="{ \"Version\": \"2012-10-17\", \"Statement\": [ { \"Effect\": \"Allow\", \"Principal\": { \"AWS\": \"arn:aws:iam::623959979101:root\" }, \"Action\": \"sts:AssumeRole\" } ] }"
